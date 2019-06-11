@@ -15,3 +15,4 @@ public class Runner{
         divide.printQuotientOfNums(3.0f, 2.0f);
     }
 }
+//I learned how to create several branches on Gitkraken and also merge them. I also learned how to use the GItkraken program to collaborate on projects. I learned how to work on separate branches to then combine them.
