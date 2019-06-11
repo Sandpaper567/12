@@ -15,3 +15,4 @@ public class Runner{
         divide.printQuotientOfNums(3.0f, 2.0f);
     }
 }
+//Hey there Mr.Schiff! I learned that 1, it takes 12 attempts to get this right, 2, how to use a lambda funtion (which is so much better in python btw), and finally, how to use the Sout.printf() to format for a decimal
